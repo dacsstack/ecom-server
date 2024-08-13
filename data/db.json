@@ -238,5 +238,12 @@
     }
   ],
   "orders": [],
-  "users": []
+  "users": [
+    {
+      "email": "dacsstack@gmail.com",
+      "password": "$2a$10$h1UzKptOos107SIkeqWgZ.jMWQ3fzOZpvQVCVi3lPknqyck8vy5VS",
+      "name": "Dacs",
+      "id": 1
+    }
+  ]
 }
